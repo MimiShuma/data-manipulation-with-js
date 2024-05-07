@@ -13,6 +13,10 @@ const countries = [{
     code: "JN"
 },
 {
+    name: "Nepal",
+    code: "NP"
+},
+{
     name: "Pakisthan",
     code: "PK"
 }]
